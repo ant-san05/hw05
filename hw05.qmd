@@ -128,7 +128,7 @@ A parameter that shifts every prediction up or down by the same amount (for exam
 
 A smelter sits on the floor of a narrow valley that runs east–west. One clear night there was almost no wind, and a **temperature inversion** formed over the valley floor.
 
-Air normally gets colder with height, so air warmed near the ground rises and carries pollution up and away. On a clear, calm night the ground cools quickly and chills the air just above it, which leaves a pool of cold air sitting under warmer air. This is called is an **inversion**. The cold air is heavier than the air above it and cannot rise, so the warmer air acts as a lid. That night the smelter's SO$_2$ stayed in the pool of cold air on the valley floor. With almost no wind to carry it out of the valley, its concentration built up through the night.
+Air normally gets colder with height, so air warmed near the ground rises and carries pollution up and away. On a clear, calm night the ground cools quickly and chills the air just above it, which leaves a pool of cold air sitting under warmer air. This is called an **inversion**. The cold air is heavier than the air above it and cannot rise, so the warmer air acts as a lid. That night the smelter's SO$_2$ stayed in the pool of cold air on the valley floor. With almost no wind to carry it out of the valley, its concentration built up through the night.
 
 The facility's anemometer averaged 1 m/s from the west over the night, but the wind was light and swung through every direction.
 
