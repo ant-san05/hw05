@@ -12,8 +12,8 @@ After completing this assignment, students will be able to:
 
 * evaluate the Gaussian plume model at receptors, and reason about how stability class changes the worst case at each one in a regulatory context;
 * assess a model against observations using both a fit statistic and the pattern of its residuals;
-* explain why calibrating one parameter cannot fix an error in another, and what that implies about trusting a calibrated model;
-* decide whether a model is fit for a stated use, and communicate what the fit statistics do not show.
+* calibrate a model's inputs, and recognise when no calibration can make it fit because its assumptions do not hold for the setting;
+* decide whether a model is fit for a stated use, checking calibrated values against what is known about the system.
 
 ## Repository Overview
 
